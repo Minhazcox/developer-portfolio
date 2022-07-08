@@ -56,5 +56,27 @@ h2 {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 15px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
